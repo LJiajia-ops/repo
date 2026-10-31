@@ -35,25 +35,6 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
-Package: cn.octoforce.squidgesturepro
-Architecture: iphoneos-arm64e
-Version: 2.7.6-1
-Section: Tweaks
-Maintainer: 刀哥
-Installed-Size: 6762
-Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: debs/cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm64e.deb
-Size: 1795530
-MD5sum: 7c6302df4be1663f6f4381156dc17e50
-SHA1: 65f142334cc8b089221e21b1a559de13239594e2
-SHA256: 35c4b0b2cef9bdc2f6ceec0a3c6feb61a2ff9f7dc94da34150fc68a38213f0d7
-SHA512: 439809e1c97a5d929fb70ef12611105752795c148f5cdf4c02586adf285cdb43a989691e270a411dc883887a121bf42a34b701eceea571215aa465601fbb33c0
-Description: Local device-bound license recovery for SquidGesturePro 2.7.6-1. No activation server required. Device validation pending.
-Name: SquidGesturePro
-Author: 刀哥
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
-
 Package: cn.zqbb.fix120hz
 Architecture: iphoneos-arm64e
 Version: 3.3.3-3
