@@ -153,6 +153,26 @@ Name: Hello Memory Status
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.memorystatus.png
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.memorystatus
 
+Package: com.bvn.Widgy
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Apps Crack
+Maintainer: BVN Repo
+Installed-Size: 10756
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.bvn.Widgy_1.0_iphoneos-arm64.deb
+Size: 3206432
+MD5sum: 38e2ead7dd0a3baab7e1b9ac71bb9495
+SHA1: 422697d3e7572cb06d1796ef76fe2f84ce1d52d2
+SHA256: dfec66ab6667bf9efcc571d7a9a374e69800c0e824036d55f8c7c707ff575a59
+SHA512: 73e41e4429870afa03bfd6351955f3fafe0544105c38469b4b2a23204a3ca51e58b54048969bce16e740a98e5ddc9e60685255afa09771de49627f92af215973
+Description: Cracked By Blatant
+Name: Widgy Unlock
+Author: blatant
+Depiction: http://bvnsupport.github.io/infodeb/Html/Widgy.html
+SileoDepiction: https://bvnsupport.github.io/sileodepictions/Widgy.json
+Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
+
 Package: com.bvn.copyvault.rl
 Architecture: iphoneos-arm64e
 Version: 1.9.0k
@@ -191,4 +211,21 @@ SHA512: b0bc2aa42577ca10a6f1d3a387fd282a59b276bfd68a963af173a167d5827c4f0cd30586
 Description: 液态玻璃
 Name: 88液态玻璃插件 1.3.7-4
 Author: 一刀
+
+Package: com.hw.topwidgets
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: 🄷🅆
+Installed-Size: 1388
+Depends: mobilesubstrate
+Filename: debs/com.hw.topwidgets_0.0.1_iphoneos-arm64.deb
+Size: 213298
+MD5sum: 2cf397991686b91f40f2b14c1ebb37ea
+SHA1: 314e9741f8fd8b652dff02abf3c04871e26cf19a
+SHA256: 70d567e1735217ac1afb1d3261b2272ec97fcbefd69c59d6ec8d89e98fed5064
+SHA512: 5d62fc574442c938e8381bf395f3968af381f0b0b66170827f07f3c2b0ce616f9a6d7327929ad1061a52f00907b3dc31bcd7d14cb01e5cf0396f6079d09efdc0
+Description: 解锁VIP TG：@HelloWorld_1024
+Name: 🄷🅆  TopWidgets
+Author: 🄷🅆
 
