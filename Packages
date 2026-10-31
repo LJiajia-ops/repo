@@ -35,25 +35,6 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
-Package: cn.octoforce.squidextender
-Architecture: iphoneos-arm64e
-Version: 3.7.4+offline.1
-Section: Tweaks
-Maintainer: SquidForce, Backup
-Installed-Size: 10254
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
-Conflicts: com.squidforce.squidextender
-Filename: debs/cn.octoforce.squidextender_3.7.4_offline.1_iphoneos-arm64e.deb
-Size: 2306804
-MD5sum: 837cfeea16a870753907e5d28c40342f
-SHA1: 76ca44d3d207ae97d1e09154951d657886a495b8
-SHA256: 196952356175289e0cee776d80c486bc7f88c6f32fd876c0813926031db01ce0
-SHA512: c3539b412698cc1186dfbd86cb33598ad579ef592a09bc2fc362452d381c5d227187254074989acae14a590e0a6f0d2681d3a073a256a8c2d0b1b8a12b07559d
-Description: Local device-bound license recovery for SquidExtender 3.7.4. No activation server required. Device validation pending.
-Name: SquidExtender (RootHide Offline Recovery Test)
-Author: SquidForce, Backup
-SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
-
 Package: cn.octoforce.squidgesturepro
 Architecture: iphoneos-arm64e
 Version: 2.7.6-1
