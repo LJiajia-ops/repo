@@ -35,6 +35,25 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64e
+Version: 3.7.4+offline.1
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 10254
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy, firmware (>= 15.0)
+Conflicts: com.squidforce.squidextender
+Filename: debs/cn.octoforce.squidextender_3.7.4_offline.1_iphoneos-arm64e.deb
+Size: 2306804
+MD5sum: 837cfeea16a870753907e5d28c40342f
+SHA1: 76ca44d3d207ae97d1e09154951d657886a495b8
+SHA256: 196952356175289e0cee776d80c486bc7f88c6f32fd876c0813926031db01ce0
+SHA512: c3539b412698cc1186dfbd86cb33598ad579ef592a09bc2fc362452d381c5d227187254074989acae14a590e0a6f0d2681d3a073a256a8c2d0b1b8a12b07559d
+Description: Local device-bound license recovery for SquidExtender 3.7.4. No activation server required. Device validation pending.
+Name: SquidExtender (RootHide Offline Recovery Test)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
 Package: cn.octoforce.squidgesturepro
 Architecture: iphoneos-arm64e
 Version: 2.7.6-1
@@ -95,6 +114,26 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.bundleid
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.bundleid
 
+Package: cn.zqbb.hello.keyboard.ai
+Architecture: iphoneos-arm64e
+Version: 6.6.6-3
+Section: zqbb Tweaks
+Maintainer: zqbb
+Installed-Size: 11100
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Conflicts: com.zqbb.hello.keyboard.ai
+Filename: debs/cn.zqbb.hello.keyboard.ai_6.6.6-3_iphoneos-arm64e.deb
+Size: 2812288
+MD5sum: ca14c1e720358597e634ef3507b327de
+SHA1: f199bc5abbc73677d1d049da9a5414646ccdc0d6
+SHA256: 4760db713f0d7920df143d435bf8631616f0c67b5523971ec0bdf64850ed1f5e
+SHA512: 5d661f8d41560bfcd9786966aff6765525b037029cfb98e6beffe549a456d4b205f8e8e094dc7a416150c26394c8fdbbed8d25c4dbeb466de32467fe33ded5bd
+Description: Quickly activate AI mode.
+Name: Hello 键盘侠 (roothide)
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.hello.keyboard.ai.png
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.hello.keyboard.ai
+
 Package: cn.zqbb.hello.memorystatus
 Architecture: iphoneos-arm64e
 Version: 3.9.0-6
@@ -134,4 +173,22 @@ Description: CopyVault is a modern, powerful and easy-to-use pasteboard jailbrea
 Name: CopyVault VH
 Author: SquidForce, Backup
 icon: https://huayuarc.github.io/icon/CopyVault@2x.png
+
+Package: com.charlieleung.liquidify
+Architecture: iphoneos-arm64e
+Version: 1.3.7-4+repair.4
+Section: Tweaks
+Maintainer: 一刀
+Installed-Size: 40967
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.charlieleung.liquidify_1.3.7-4_repair.4_iphoneos-arm64e.deb
+Size: 15420862
+MD5sum: cf51e38b2985912fb1c8b0ee39bce089
+SHA1: 7b71b1358d9e6338946144c4f529c6272e51e99b
+SHA256: f716b21cf694d5fc1b025151931472c6032fbb31ea53886f70c4892d59e9b91a
+SHA512: b0bc2aa42577ca10a6f1d3a387fd282a59b276bfd68a963af173a167d5827c4f0cd30586e7561213329a34ba460cf1c51a794f2f2b4411058b2815c2f186b06c
+Description: 液态玻璃
+Name: 88液态玻璃插件 1.3.7-4
+Author: 一刀
 

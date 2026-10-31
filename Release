@@ -8,8 +8,8 @@ Components: main
 Description: LJiajia-ops 的越狱软件源
 Support: https://LJiajia-ops.github.io/repo/
 MD5Sum:
- 066826b611b9ea970e01bf2b758eb824  6343 Packages
- 73c3eff6fb73b591a53142e858680aea  2960 Packages.gz
+ 4d5ba26ba184e21e09ab8aabce30d5a8  8880 Packages
+ 36660b7539b8898e499440008dd415cc  3788 Packages.gz
 SHA256:
- 3b6cc614c7a988bd3968b73456b7077ed239179ffdb54c507ebc9cf6e4ee1ce7  6343 Packages
- 16036e3653aa40ef93c06a09691c393613abd2266bce4e946697f3770958ad80  2960 Packages.gz
+ 8f124ea74e627513034196184bb39875cc9f7560048735623c660098e12e3cca  8880 Packages
+ 422ac1973fec288f44901d877ba2a78b47bd0a1f62a4ee5fe9b04afa419dea21  3788 Packages.gz
