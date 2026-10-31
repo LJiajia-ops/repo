@@ -135,27 +135,6 @@ Depiction: http://bvnsupport.github.io/infodeb/Html/Widgy.html
 SileoDepiction: https://bvnsupport.github.io/sileodepictions/Widgy.json
 Icon: https://bvnsupport.github.io/depictions/sectionIcons/appcrack.png
 
-Package: com.bvn.copyvault.rl
-Architecture: iphoneos-arm64e
-Version: 1.9.0k
-Section: Tweaks
-Maintainer: SquidForce, Backup
-Installed-Size: 6220
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist, com.bvn.squidforcecrack.rl
-Conflicts: com.squidforce.copyvault
-Filename: debs/com.bvn.copyvault.rl_1.9.0k_iphoneos-arm64e.deb
-Size: 1641180
-MD5sum: 4a72a65e22785656b3b327a550055ce3
-SHA1: 848870da0ce21bb749b6d83915be1e2a944ccbb5
-SHA256: 18ea7a930ed18ba42d74bf0b52b1ff0af7d96b22fca73deee870556fb97799eb
-SHA512: 5328d2d3b863527ec046e96dc5186bf91b30d8269deb23bf102eb18ef1465e4c625bdd890fcf2e94d802baefcf375f83d56ebd332a527d1a51729f97b3393e40
-Description: CopyVault is a modern, powerful and easy-to-use pasteboard jailbreak tweak, works on both iphone and ipad!
- * CopyVault 是一款现代、强大且易用的剪贴板越狱插件，同时支持 iPhone 和 iPad！
-Name: CopyVault VH
-Author: SquidForce, Backup
-icon: https://huayuarc.github.io/icon/CopyVault@2x.png
-
 Package: com.charlieleung.liquidify
 Architecture: iphoneos-arm64e
 Version: 1.3.7-4+repair.4
