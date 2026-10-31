@@ -35,6 +35,63 @@ Name: AppTools15-17(RootHide)
 Author: aReo
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/apptools/js.json
 
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.9.0
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6380
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: debs/cn.octoforce.copyvault_1.9.0_iphoneos-arm64e.deb
+Size: 1706700
+MD5sum: 1a5621471aca26b018ed683e98cd5310
+SHA1: 94cfacd0452d09fa12cbd37fd0be95627eb89ecf
+SHA256: 1c9cf44e27ee4d54d907784e3ac3178e8f5982487b217149a17027cc58cc7a9b
+SHA512: b38d7b255d4924d4e97a5fb21e94b5e340c45288eb74c0637b5b141c473127bb62c86ca988bb2b58aa171b97d367ab039d297e50a6d8cf1be02f9081d516f951
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64
+Version: 3.7.4
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 9988
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: debs/cn.octoforce.squidextender_3.7.4_iphoneos-arm64.deb
+Size: 2285264
+MD5sum: c221fff63e0da2f5f1bcb13ceaf5ff08
+SHA1: cadc9571737befc2d31f263a6369c2c0d2e5ca36
+SHA256: ab4654bb32b7d36b8fa8a4fe0285b351c918dff2f90b9f9e8f94289b8e1bcb49
+SHA512: 438e67d7dd2600c4f2fbb973eb0ec5bd2ada72a1fcd3383708a639d69e39ba86261a333d20c00f80deec88c56fa164b9622743b65c9f878388950c7db5873b35
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Name: SquidExtender(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: cn.octoforce.squidgesturepro
+Architecture: iphoneos-arm64e
+Version: 2.7.6-1
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 6668
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
+Filename: debs/cn.octoforce.squidgesturepro_2.7.6-1_iphoneos-arm64e.deb
+Size: 1787120
+MD5sum: b7ccedbdc6fe235dbb22d130cb0babbc
+SHA1: 11f57cd0f8f0ac2f890c53bfa9d4602f14e8d885
+SHA256: 240362fc1846f697025122e4788d04bbd1920b8f5102bcfc5642a9a14b62837a
+SHA512: 4c0713baa6401e16ada10cbc329f7eecfa02ebf16bfa8a4aaf6289c97710e04ad9d0fc82013e87479ad1d01390eb8e3c0944fe7ccf173183429648900ed783a0
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Name: SquidGesturePro(激活码)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidgesturepro/depiction.json
+
 Package: cn.zqbb.fix120hz
 Architecture: iphoneos-arm64e
 Version: 3.3.3-3
