@@ -1,0 +1,15 @@
+Origin: LJiajia-ops 的源
+Label: LJiajia-ops 的源
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e
+Components: main
+Description: LJiajia-ops 的越狱软件源
+Support: https://LJiajia-ops.github.io/repo/
+MD5Sum:
+ 066826b611b9ea970e01bf2b758eb824  6343 Packages
+ 73c3eff6fb73b591a53142e858680aea  2960 Packages.gz
+SHA256:
+ 3b6cc614c7a988bd3968b73456b7077ed239179ffdb54c507ebc9cf6e4ee1ce7  6343 Packages
+ 16036e3653aa40ef93c06a09691c393613abd2266bce4e946697f3770958ad80  2960 Packages.gz
